@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="245480" started-at="2019-06-24T01:40:19Z" finished-at="2019-06-24T01:44:24Z">
+  <suite name="Default suite" duration-ms="96669" started-at="2019-06-25T04:07:21Z" finished-at="2019-06-25T04:08:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="245480" started-at="2019-06-24T01:40:19Z" finished-at="2019-06-24T01:44:24Z">
+    <test name="Default test" duration-ms="96669" started-at="2019-06-25T04:07:21Z" finished-at="2019-06-25T04:08:58Z">
       <class name="Tests.navegador">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Tests.navegador@1f28c152]" name="beforeTest" is-config="true" duration-ms="151664" started-at="2019-06-23T20:40:19Z" finished-at="2019-06-23T20:42:51Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Tests.navegador@1f28c152]" name="beforeTest" is-config="true" duration-ms="76719" started-at="2019-06-24T23:07:21Z" finished-at="2019-06-24T23:08:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="registrandoUsuarios()[pri:0, instance:Tests.navegador@1f28c152]" name="registrandoUsuarios" duration-ms="77594" started-at="2019-06-23T20:42:51Z" finished-at="2019-06-23T20:44:08Z">
+        <test-method status="PASS" signature="iniciandoSencionConUsuarioIncorrecto()[pri:0, instance:Tests.navegador@1f28c152]" name="iniciandoSencionConUsuarioIncorrecto" duration-ms="15940" started-at="2019-06-24T23:08:38Z" finished-at="2019-06-24T23:08:54Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- registrandoUsuarios -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:Tests.navegador@1f28c152]" name="afterTest" is-config="true" duration-ms="16034" started-at="2019-06-23T20:44:08Z" finished-at="2019-06-23T20:44:24Z">
+        </test-method> <!-- iniciandoSencionConUsuarioIncorrecto -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Tests.navegador@1f28c152]" name="afterTest" is-config="true" duration-ms="3837" started-at="2019-06-24T23:08:54Z" finished-at="2019-06-24T23:08:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
